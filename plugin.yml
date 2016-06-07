@@ -1,0 +1,9 @@
+main: it.hylp.bossbar.Main
+version: 1.0
+name: BossBar
+author: HyLP
+
+commands:
+  bossbar:
+    description: BossBar!
+    aliases: [bbar, bb]
